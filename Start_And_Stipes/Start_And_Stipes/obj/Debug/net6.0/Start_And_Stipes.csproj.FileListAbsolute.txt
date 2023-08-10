@@ -1,0 +1,15 @@
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.csproj.AssemblyReference.cache
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.AssemblyInfoInputs.cache
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.AssemblyInfo.cs
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.csproj.CoreCompileInputs.cache
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\bin\Debug\net6.0\Start_And_Stipes.exe
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\bin\Debug\net6.0\Start_And_Stipes.deps.json
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\bin\Debug\net6.0\Start_And_Stipes.runtimeconfig.json
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\bin\Debug\net6.0\Start_And_Stipes.dll
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\bin\Debug\net6.0\Start_And_Stipes.pdb
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.dll
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\refint\Start_And_Stipes.dll
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.pdb
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\Start_And_Stipes.genruntimeconfig.cache
+C:\Users\zbc23nksk\source\repos\Start_And_Stipes\Start_And_Stipes\obj\Debug\net6.0\ref\Start_And_Stipes.dll
