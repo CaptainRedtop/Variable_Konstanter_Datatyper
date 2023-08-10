@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start_And_Stipes", "Start_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturBeregner", "TemperaturBeregner\TemperaturBeregner.csproj", "{07C60BD1-B669-4D2A-A24E-89F937A32CBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rumfang", "Rumfang\Rumfang.csproj", "{129C0B6A-BE85-4F4F-9D00-13CD54386B29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07C60BD1-B669-4D2A-A24E-89F937A32CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C60BD1-B669-4D2A-A24E-89F937A32CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C60BD1-B669-4D2A-A24E-89F937A32CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129C0B6A-BE85-4F4F-9D00-13CD54386B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129C0B6A-BE85-4F4F-9D00-13CD54386B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129C0B6A-BE85-4F4F-9D00-13CD54386B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129C0B6A-BE85-4F4F-9D00-13CD54386B29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
