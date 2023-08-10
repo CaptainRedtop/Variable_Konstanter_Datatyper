@@ -1,0 +1,15 @@
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\bin\Debug\net6.0\Fødselsdag.exe
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\bin\Debug\net6.0\Fødselsdag.deps.json
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\bin\Debug\net6.0\Fødselsdag.runtimeconfig.json
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\bin\Debug\net6.0\Fødselsdag.dll
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\bin\Debug\net6.0\Fødselsdag.pdb
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.csproj.AssemblyReference.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.AssemblyInfoInputs.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.AssemblyInfo.cs
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.csproj.CoreCompileInputs.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.dll
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\refint\Fødselsdag.dll
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.pdb
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\Fødselsdag.genruntimeconfig.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\Fødselsdag\obj\Debug\net6.0\ref\Fødselsdag.dll
