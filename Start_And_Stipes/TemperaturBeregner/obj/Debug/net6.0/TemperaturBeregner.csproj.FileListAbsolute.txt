@@ -1,0 +1,15 @@
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\bin\Debug\net6.0\TemperaturBeregner.exe
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\bin\Debug\net6.0\TemperaturBeregner.deps.json
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\bin\Debug\net6.0\TemperaturBeregner.runtimeconfig.json
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\bin\Debug\net6.0\TemperaturBeregner.dll
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\bin\Debug\net6.0\TemperaturBeregner.pdb
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.csproj.AssemblyReference.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.AssemblyInfoInputs.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.AssemblyInfo.cs
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.csproj.CoreCompileInputs.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.dll
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\refint\TemperaturBeregner.dll
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.pdb
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\TemperaturBeregner.genruntimeconfig.cache
+C:\Users\klich\Source\Repos\CaptainRedtop\Opagvetingting\Start_And_Stipes\TemperaturBeregner\obj\Debug\net6.0\ref\TemperaturBeregner.dll
